@@ -9,6 +9,8 @@ public:
             if(mpp[nums[i]] == min){
                 ls.push_back(nums[i]);
             }
+            if(ls.size() == 2) break;
+            
         }
         return ls;
     }
