@@ -1,29 +1,36 @@
 class Solution {
+private:
+void swapifgreater(vector<int>& nums1, vector<int>& nums2, int ind1, int ind2){
+    if(nums1[ind1] > nums2[ind2]){
+        swap(nums1[ind1], nums2[ind2]);
+    }
+}
 public:
     void merge(vector<int>& nums1, int m, vector<int>& nums2, int n) {
-        vector<long long> nums3(m+n);
-        int left = 0;
-        int right = 0;
-        int index = 0;
-        while(left < m && right < n) {
-            if(nums1[left] <= nums2[right]) {
-                nums3[index] = nums1[left];
-                left++,index++;
+        int len = (m+n);
+        int gap = (len / 2) + (len % 2);
+        while(gap > 0){
+            int left = 0;
+            int right = left + gap;
+            while(right < len) {
+                if(left< m && right >= m) {
+                    swapifgreater(nums1,nums2,left,right-m);
+                }
+                else if(left >= m) {
+                    swapifgreater(nums2,nums2,left-m,right-m);
+                }
+                else {
+                    swapifgreater(nums1,nums1,left,right);
+                }
+                left++,right++;
             }
-            else {
-                nums3[index] = nums2[right];
-                right++, index++;
-            }
+            if(gap == 1) break;
+            gap = (gap/2) + (gap % 2);
         }
-       while(left < m) {
-        nums3[index++] = nums1[left++];
+      
+        for (int i = 0; i < n; i++) {
+            nums1[m + i] = nums2[i];
         }
-        while(right < n) {
-        nums3[index++] = nums2[right++];
-        }
-        for(int i = 0; i < m+n; i++){
-             nums1[i] = nums3[i];
-            
-        }
+        
     }
 };
