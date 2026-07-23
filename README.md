@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/arsha2343/Leetcode-Qns/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/arsha2343/Leetcode-Qns/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/arsha2343/Leetcode-Qns/tree/master/0229-majority-element-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/arsha2343/Leetcode-Qns/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/arsha2343/Leetcode-Qns/tree/master/0560-subarray-sum-equals-k) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/arsha2343/Leetcode-Qns/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/arsha2343/Leetcode-Qns/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/arsha2343/Leetcode-Qns/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/arsha2343/Leetcode-Qns/tree/master/0229-majority-element-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/arsha2343/Leetcode-Qns/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/arsha2343/Leetcode-Qns/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
 |  |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/arsha2343/Leetcode-Qns/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/arsha2343/Leetcode-Qns/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/arsha2343/Leetcode-Qns/tree/master/0229-majority-element-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/arsha2343/Leetcode-Qns/tree/master/0349-intersection-of-two-arrays) |
 ## Counting
 |  |
 | ------- |
@@ -78,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/arsha2343/Leetcode-Qns/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/arsha2343/Leetcode-Qns/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/arsha2343/Leetcode-Qns/tree/master/0189-rotate-array) |
+| [0349-intersection-of-two-arrays](https://github.com/arsha2343/Leetcode-Qns/tree/master/0349-intersection-of-two-arrays) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/arsha2343/Leetcode-Qns/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
@@ -97,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/arsha2343/Leetcode-Qns/tree/master/0035-search-insert-position) |
+| [0349-intersection-of-two-arrays](https://github.com/arsha2343/Leetcode-Qns/tree/master/0349-intersection-of-two-arrays) |
 ## Sliding Window
 |  |
 | ------- |
