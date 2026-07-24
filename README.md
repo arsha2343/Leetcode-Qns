@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/arsha2343/Leetcode-Qns/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/arsha2343/Leetcode-Qns/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/arsha2343/Leetcode-Qns/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/arsha2343/Leetcode-Qns/tree/master/0704-binary-search) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/arsha2343/Leetcode-Qns/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/arsha2343/Leetcode-Qns/tree/master/0035-search-insert-position) |
 | [0349-intersection-of-two-arrays](https://github.com/arsha2343/Leetcode-Qns/tree/master/0349-intersection-of-two-arrays) |
+| [0704-binary-search](https://github.com/arsha2343/Leetcode-Qns/tree/master/0704-binary-search) |
 ## Sliding Window
 |  |
 | ------- |
