@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/arsha2343/Leetcode-Qns/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/arsha2343/Leetcode-Qns/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/arsha2343/Leetcode-Qns/tree/master/0349-intersection-of-two-arrays) |
+| [3536-maximum-product-of-two-digits](https://github.com/arsha2343/Leetcode-Qns/tree/master/3536-maximum-product-of-two-digits) |
 ## Counting
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/arsha2343/Leetcode-Qns/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/arsha2343/Leetcode-Qns/tree/master/0189-rotate-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/arsha2343/Leetcode-Qns/tree/master/3536-maximum-product-of-two-digits) |
 ## Prefix Sum
 |  |
 | ------- |
