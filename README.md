@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/arsha2343/Leetcode-Qns/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/arsha2343/Leetcode-Qns/tree/master/1539-kth-missing-positive-number) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/arsha2343/Leetcode-Qns/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2951-find-the-peaks](https://github.com/arsha2343/Leetcode-Qns/tree/master/2951-find-the-peaks) |
 ## Hash Table
 |  |
 | ------- |
@@ -145,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/arsha2343/Leetcode-Qns/tree/master/0410-split-array-largest-sum) |
+## Enumeration
+|  |
+| ------- |
+| [2951-find-the-peaks](https://github.com/arsha2343/Leetcode-Qns/tree/master/2951-find-the-peaks) |
 <!---LeetCode Topics End-->
