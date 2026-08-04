@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/arsha2343/Leetcode-Qns/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/arsha2343/Leetcode-Qns/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/arsha2343/Leetcode-Qns/tree/master/0189-rotate-array) |
+| [1903-largest-odd-number-in-string](https://github.com/arsha2343/Leetcode-Qns/tree/master/1903-largest-odd-number-in-string) |
 | [3536-maximum-product-of-two-digits](https://github.com/arsha2343/Leetcode-Qns/tree/master/3536-maximum-product-of-two-digits) |
 ## Prefix Sum
 |  |
@@ -158,8 +159,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/arsha2343/Leetcode-Qns/tree/master/0410-split-array-largest-sum) |
+| [1903-largest-odd-number-in-string](https://github.com/arsha2343/Leetcode-Qns/tree/master/1903-largest-odd-number-in-string) |
 ## Enumeration
 |  |
 | ------- |
 | [2951-find-the-peaks](https://github.com/arsha2343/Leetcode-Qns/tree/master/2951-find-the-peaks) |
+## String
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/arsha2343/Leetcode-Qns/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
