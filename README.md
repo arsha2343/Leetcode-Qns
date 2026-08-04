@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/arsha2343/Leetcode-Qns/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/arsha2343/Leetcode-Qns/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/arsha2343/Leetcode-Qns/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/arsha2343/Leetcode-Qns/tree/master/0877-stone-game) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/arsha2343/Leetcode-Qns/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/arsha2343/Leetcode-Qns/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/arsha2343/Leetcode-Qns/tree/master/1539-kth-missing-positive-number) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/arsha2343/Leetcode-Qns/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/arsha2343/Leetcode-Qns/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0410-split-array-largest-sum](https://github.com/arsha2343/Leetcode-Qns/tree/master/0410-split-array-largest-sum) |
+| [0877-stone-game](https://github.com/arsha2343/Leetcode-Qns/tree/master/0877-stone-game) |
 ## Union-Find
 |  |
 | ------- |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/arsha2343/Leetcode-Qns/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/arsha2343/Leetcode-Qns/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/arsha2343/Leetcode-Qns/tree/master/0189-rotate-array) |
+| [0877-stone-game](https://github.com/arsha2343/Leetcode-Qns/tree/master/0877-stone-game) |
 | [1903-largest-odd-number-in-string](https://github.com/arsha2343/Leetcode-Qns/tree/master/1903-largest-odd-number-in-string) |
 | [3536-maximum-product-of-two-digits](https://github.com/arsha2343/Leetcode-Qns/tree/master/3536-maximum-product-of-two-digits) |
 ## Prefix Sum
@@ -180,4 +183,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/arsha2343/Leetcode-Qns/tree/master/0451-sort-characters-by-frequency) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/arsha2343/Leetcode-Qns/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/arsha2343/Leetcode-Qns/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/arsha2343/Leetcode-Qns/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
