@@ -1,19 +1,20 @@
 class Solution {
 public:
     vector<int> sortArrayByParity(vector<int>& nums) {
-        vector<int> oddarr;
-        vector<int>evenarr;
-        for(int i = 0;i<nums.size();i++){
-            if(nums[i] % 2 == 0) evenarr.push_back(nums[i]);
-            else oddarr.push_back(nums[i]);
+        int low = 0;
+        int mid = 0;
+        int high = nums.size() - 1;
+        while(mid <= high){
+            if(nums[mid] % 2 == 0){
+                swap(nums[low],nums[mid]);
+                low++;
+                mid++;
+            }
+            else {
+                swap(nums[mid],nums[high]);
+                high--;
+            }
         }
-        vector<int> ans;
-        for(auto it1: evenarr){
-            ans.push_back(it1);
-        }
-        for(auto it2: oddarr){
-            ans.push_back(it2);
-        }
-        return ans;
+        return nums;
     }
 };
