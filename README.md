@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/arsha2343/Leetcode-Qns/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/arsha2343/Leetcode-Qns/tree/master/1901-find-a-peak-element-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/arsha2343/Leetcode-Qns/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/arsha2343/Leetcode-Qns/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2643-row-with-maximum-ones](https://github.com/arsha2343/Leetcode-Qns/tree/master/2643-row-with-maximum-ones) |
 | [2951-find-the-peaks](https://github.com/arsha2343/Leetcode-Qns/tree/master/2951-find-the-peaks) |
 ## Hash Table
@@ -145,11 +146,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/arsha2343/Leetcode-Qns/tree/master/0905-sort-array-by-parity) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/arsha2343/Leetcode-Qns/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/arsha2343/Leetcode-Qns/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/arsha2343/Leetcode-Qns/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/arsha2343/Leetcode-Qns/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/arsha2343/Leetcode-Qns/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/arsha2343/Leetcode-Qns/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Math
 |  |
 | ------- |
