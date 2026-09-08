@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/arsha2343/Leetcode-Qns/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/arsha2343/Leetcode-Qns/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/arsha2343/Leetcode-Qns/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/arsha2343/Leetcode-Qns/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/arsha2343/Leetcode-Qns/tree/master/0240-search-a-2d-matrix-ii) |
 ## Sorting
 |  |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/arsha2343/Leetcode-Qns/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/arsha2343/Leetcode-Qns/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/arsha2343/Leetcode-Qns/tree/master/0090-subsets-ii) |
+| [0191-number-of-1-bits](https://github.com/arsha2343/Leetcode-Qns/tree/master/0191-number-of-1-bits) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/arsha2343/Leetcode-Qns/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Algorithm X
 |  |
