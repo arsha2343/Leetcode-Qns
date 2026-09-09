@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/arsha2343/Leetcode-Qns/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/arsha2343/Leetcode-Qns/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/arsha2343/Leetcode-Qns/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/arsha2343/Leetcode-Qns/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/arsha2343/Leetcode-Qns/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/arsha2343/Leetcode-Qns/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/arsha2343/Leetcode-Qns/tree/master/0219-contains-duplicate-ii) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/arsha2343/Leetcode-Qns/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/arsha2343/Leetcode-Qns/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/arsha2343/Leetcode-Qns/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/arsha2343/Leetcode-Qns/tree/master/0204-count-primes) |
 | [0877-stone-game](https://github.com/arsha2343/Leetcode-Qns/tree/master/0877-stone-game) |
 | [1903-largest-odd-number-in-string](https://github.com/arsha2343/Leetcode-Qns/tree/master/1903-largest-odd-number-in-string) |
 | [3536-maximum-product-of-two-digits](https://github.com/arsha2343/Leetcode-Qns/tree/master/3536-maximum-product-of-two-digits) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/arsha2343/Leetcode-Qns/tree/master/0204-count-primes) |
 | [2951-find-the-peaks](https://github.com/arsha2343/Leetcode-Qns/tree/master/2951-find-the-peaks) |
 ## String
 |  |
@@ -315,4 +318,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/arsha2343/Leetcode-Qns/tree/master/0051-n-queens) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/arsha2343/Leetcode-Qns/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/arsha2343/Leetcode-Qns/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/arsha2343/Leetcode-Qns/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/arsha2343/Leetcode-Qns/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
