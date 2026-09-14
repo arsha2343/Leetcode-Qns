@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/arsha2343/Leetcode-Qns/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/arsha2343/Leetcode-Qns/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/arsha2343/Leetcode-Qns/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/arsha2343/Leetcode-Qns/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/arsha2343/Leetcode-Qns/tree/master/0131-palindrome-partitioning) |
 | [0451-sort-characters-by-frequency](https://github.com/arsha2343/Leetcode-Qns/tree/master/0451-sort-characters-by-frequency) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/arsha2343/Leetcode-Qns/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/arsha2343/Leetcode-Qns/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/arsha2343/Leetcode-Qns/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/arsha2343/Leetcode-Qns/tree/master/0234-palindrome-linked-list) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/arsha2343/Leetcode-Qns/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/arsha2343/Leetcode-Qns/tree/master/0022-generate-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/arsha2343/Leetcode-Qns/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Linked List
