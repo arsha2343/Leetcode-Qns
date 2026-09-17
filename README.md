@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/arsha2343/Leetcode-Qns/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/arsha2343/Leetcode-Qns/tree/master/0035-search-insert-position) |
 | [0040-combination-sum-ii](https://github.com/arsha2343/Leetcode-Qns/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/arsha2343/Leetcode-Qns/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/arsha2343/Leetcode-Qns/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/arsha2343/Leetcode-Qns/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/arsha2343/Leetcode-Qns/tree/master/0053-maximum-subarray) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/arsha2343/Leetcode-Qns/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/arsha2343/Leetcode-Qns/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/arsha2343/Leetcode-Qns/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/arsha2343/Leetcode-Qns/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/arsha2343/Leetcode-Qns/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/arsha2343/Leetcode-Qns/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/arsha2343/Leetcode-Qns/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/arsha2343/Leetcode-Qns/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/arsha2343/Leetcode-Qns/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/arsha2343/Leetcode-Qns/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/arsha2343/Leetcode-Qns/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/arsha2343/Leetcode-Qns/tree/master/0141-linked-list-cycle) |
@@ -255,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/arsha2343/Leetcode-Qns/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/arsha2343/Leetcode-Qns/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/arsha2343/Leetcode-Qns/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/arsha2343/Leetcode-Qns/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/arsha2343/Leetcode-Qns/tree/master/0232-implement-queue-using-stacks) |
@@ -359,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/arsha2343/Leetcode-Qns/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/arsha2343/Leetcode-Qns/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/arsha2343/Leetcode-Qns/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
