@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/arsha2343/Leetcode-Qns/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/arsha2343/Leetcode-Qns/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/arsha2343/Leetcode-Qns/tree/master/0704-binary-search) |
+| [0735-asteroid-collision](https://github.com/arsha2343/Leetcode-Qns/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/arsha2343/Leetcode-Qns/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/arsha2343/Leetcode-Qns/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/arsha2343/Leetcode-Qns/tree/master/0905-sort-array-by-parity) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/arsha2343/Leetcode-Qns/tree/master/0054-spiral-matrix) |
+| [0735-asteroid-collision](https://github.com/arsha2343/Leetcode-Qns/tree/master/0735-asteroid-collision) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/arsha2343/Leetcode-Qns/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/arsha2343/Leetcode-Qns/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Math
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/arsha2343/Leetcode-Qns/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/arsha2343/Leetcode-Qns/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/arsha2343/Leetcode-Qns/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/arsha2343/Leetcode-Qns/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/arsha2343/Leetcode-Qns/tree/master/0907-sum-of-subarray-minimums) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/arsha2343/Leetcode-Qns/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
