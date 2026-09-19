@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/arsha2343/Leetcode-Qns/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/arsha2343/Leetcode-Qns/tree/master/0410-split-array-largest-sum) |
 | [1903-largest-odd-number-in-string](https://github.com/arsha2343/Leetcode-Qns/tree/master/1903-largest-odd-number-in-string) |
 ## Enumeration
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/arsha2343/Leetcode-Qns/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/arsha2343/Leetcode-Qns/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/arsha2343/Leetcode-Qns/tree/master/0131-palindrome-partitioning) |
+| [0402-remove-k-digits](https://github.com/arsha2343/Leetcode-Qns/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/arsha2343/Leetcode-Qns/tree/master/0451-sort-characters-by-frequency) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/arsha2343/Leetcode-Qns/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/arsha2343/Leetcode-Qns/tree/master/1903-largest-odd-number-in-string) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/arsha2343/Leetcode-Qns/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/arsha2343/Leetcode-Qns/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/arsha2343/Leetcode-Qns/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/arsha2343/Leetcode-Qns/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/arsha2343/Leetcode-Qns/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/arsha2343/Leetcode-Qns/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/arsha2343/Leetcode-Qns/tree/master/0735-asteroid-collision) |
@@ -372,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/arsha2343/Leetcode-Qns/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/arsha2343/Leetcode-Qns/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/arsha2343/Leetcode-Qns/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/arsha2343/Leetcode-Qns/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/arsha2343/Leetcode-Qns/tree/master/0907-sum-of-subarray-minimums) |
