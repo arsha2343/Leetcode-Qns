@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/arsha2343/Leetcode-Qns/tree/master/0260-single-number-iii) |
 | [0349-intersection-of-two-arrays](https://github.com/arsha2343/Leetcode-Qns/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/arsha2343/Leetcode-Qns/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/arsha2343/Leetcode-Qns/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/arsha2343/Leetcode-Qns/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/arsha2343/Leetcode-Qns/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/arsha2343/Leetcode-Qns/tree/master/0503-next-greater-element-ii) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/arsha2343/Leetcode-Qns/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/arsha2343/Leetcode-Qns/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/arsha2343/Leetcode-Qns/tree/master/0349-intersection-of-two-arrays) |
+| [0435-non-overlapping-intervals](https://github.com/arsha2343/Leetcode-Qns/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/arsha2343/Leetcode-Qns/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/arsha2343/Leetcode-Qns/tree/master/0455-assign-cookies) |
 | [0905-sort-array-by-parity](https://github.com/arsha2343/Leetcode-Qns/tree/master/0905-sort-array-by-parity) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/arsha2343/Leetcode-Qns/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/arsha2343/Leetcode-Qns/tree/master/0131-palindrome-partitioning) |
 | [0410-split-array-largest-sum](https://github.com/arsha2343/Leetcode-Qns/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/arsha2343/Leetcode-Qns/tree/master/0435-non-overlapping-intervals) |
 | [0877-stone-game](https://github.com/arsha2343/Leetcode-Qns/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/arsha2343/Leetcode-Qns/tree/master/0907-sum-of-subarray-minimums) |
 ## Union-Find
@@ -236,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/arsha2343/Leetcode-Qns/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/arsha2343/Leetcode-Qns/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/arsha2343/Leetcode-Qns/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/arsha2343/Leetcode-Qns/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/arsha2343/Leetcode-Qns/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/arsha2343/Leetcode-Qns/tree/master/0860-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/arsha2343/Leetcode-Qns/tree/master/1903-largest-odd-number-in-string) |
