@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2104-sum-of-subarray-ranges](https://github.com/arsha2343/Leetcode-Qns/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/arsha2343/Leetcode-Qns/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/arsha2343/Leetcode-Qns/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/arsha2343/Leetcode-Qns/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2643-row-with-maximum-ones](https://github.com/arsha2343/Leetcode-Qns/tree/master/2643-row-with-maximum-ones) |
 | [2951-find-the-peaks](https://github.com/arsha2343/Leetcode-Qns/tree/master/2951-find-the-peaks) |
 ## Hash Table
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/arsha2343/Leetcode-Qns/tree/master/0455-assign-cookies) |
 | [0905-sort-array-by-parity](https://github.com/arsha2343/Leetcode-Qns/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/arsha2343/Leetcode-Qns/tree/master/0922-sort-array-by-parity-ii) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/arsha2343/Leetcode-Qns/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [3536-maximum-product-of-two-digits](https://github.com/arsha2343/Leetcode-Qns/tree/master/3536-maximum-product-of-two-digits) |
 ## Counting
 |  |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/arsha2343/Leetcode-Qns/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/arsha2343/Leetcode-Qns/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/arsha2343/Leetcode-Qns/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/arsha2343/Leetcode-Qns/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Simulation
 |  |
 | ------- |
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/arsha2343/Leetcode-Qns/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/arsha2343/Leetcode-Qns/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/arsha2343/Leetcode-Qns/tree/master/1480-running-sum-of-1d-array) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/arsha2343/Leetcode-Qns/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Binary Search
 |  |
 | ------- |
@@ -244,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/arsha2343/Leetcode-Qns/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/arsha2343/Leetcode-Qns/tree/master/0860-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/arsha2343/Leetcode-Qns/tree/master/1903-largest-odd-number-in-string) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/arsha2343/Leetcode-Qns/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Enumeration
 |  |
 | ------- |
@@ -266,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/arsha2343/Leetcode-Qns/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/arsha2343/Leetcode-Qns/tree/master/0451-sort-characters-by-frequency) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/arsha2343/Leetcode-Qns/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Bucket Sort
 |  |
 | ------- |
