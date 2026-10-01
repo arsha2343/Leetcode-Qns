@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/arsha2343/Leetcode-Qns/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/arsha2343/Leetcode-Qns/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/arsha2343/Leetcode-Qns/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/arsha2343/Leetcode-Qns/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/arsha2343/Leetcode-Qns/tree/master/0073-set-matrix-zeroes) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/arsha2343/Leetcode-Qns/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/arsha2343/Leetcode-Qns/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/arsha2343/Leetcode-Qns/tree/master/0239-sliding-window-maximum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/arsha2343/Leetcode-Qns/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/arsha2343/Leetcode-Qns/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/arsha2343/Leetcode-Qns/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/arsha2343/Leetcode-Qns/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/arsha2343/Leetcode-Qns/tree/master/0020-valid-parentheses) |
