@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/arsha2343/Leetcode-Qns/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/arsha2343/Leetcode-Qns/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/arsha2343/Leetcode-Qns/tree/master/0349-intersection-of-two-arrays) |
+| [0424-longest-repeating-character-replacement](https://github.com/arsha2343/Leetcode-Qns/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/arsha2343/Leetcode-Qns/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/arsha2343/Leetcode-Qns/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/arsha2343/Leetcode-Qns/tree/master/0560-subarray-sum-equals-k) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/arsha2343/Leetcode-Qns/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/arsha2343/Leetcode-Qns/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/arsha2343/Leetcode-Qns/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/arsha2343/Leetcode-Qns/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/arsha2343/Leetcode-Qns/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/arsha2343/Leetcode-Qns/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/arsha2343/Leetcode-Qns/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/arsha2343/Leetcode-Qns/tree/master/0058-length-of-last-word) |
 | [0131-palindrome-partitioning](https://github.com/arsha2343/Leetcode-Qns/tree/master/0131-palindrome-partitioning) |
 | [0402-remove-k-digits](https://github.com/arsha2343/Leetcode-Qns/tree/master/0402-remove-k-digits) |
+| [0424-longest-repeating-character-replacement](https://github.com/arsha2343/Leetcode-Qns/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/arsha2343/Leetcode-Qns/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/arsha2343/Leetcode-Qns/tree/master/0678-valid-parenthesis-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/arsha2343/Leetcode-Qns/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
