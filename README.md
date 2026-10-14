@@ -340,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/arsha2343/Leetcode-Qns/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/arsha2343/Leetcode-Qns/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/arsha2343/Leetcode-Qns/tree/master/0085-maximal-rectangle) |
+| [0144-binary-tree-preorder-traversal](https://github.com/arsha2343/Leetcode-Qns/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/arsha2343/Leetcode-Qns/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/arsha2343/Leetcode-Qns/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/arsha2343/Leetcode-Qns/tree/master/0232-implement-queue-using-stacks) |
@@ -483,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/arsha2343/Leetcode-Qns/tree/master/0102-binary-tree-level-order-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/arsha2343/Leetcode-Qns/tree/master/0144-binary-tree-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -491,4 +493,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/arsha2343/Leetcode-Qns/tree/master/0102-binary-tree-level-order-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/arsha2343/Leetcode-Qns/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/arsha2343/Leetcode-Qns/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
