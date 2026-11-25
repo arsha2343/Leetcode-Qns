@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/arsha2343/Leetcode-Qns/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/arsha2343/Leetcode-Qns/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/arsha2343/Leetcode-Qns/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
+| [2460-apply-operations-to-an-array](https://github.com/arsha2343/Leetcode-Qns/tree/master/2460-apply-operations-to-an-array) |
 | [2643-row-with-maximum-ones](https://github.com/arsha2343/Leetcode-Qns/tree/master/2643-row-with-maximum-ones) |
 | [2951-find-the-peaks](https://github.com/arsha2343/Leetcode-Qns/tree/master/2951-find-the-peaks) |
 ## Hash Table
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/arsha2343/Leetcode-Qns/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/arsha2343/Leetcode-Qns/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/arsha2343/Leetcode-Qns/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
+| [2460-apply-operations-to-an-array](https://github.com/arsha2343/Leetcode-Qns/tree/master/2460-apply-operations-to-an-array) |
 ## Simulation
 |  |
 | ------- |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/arsha2343/Leetcode-Qns/tree/master/0735-asteroid-collision) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/arsha2343/Leetcode-Qns/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/arsha2343/Leetcode-Qns/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2460-apply-operations-to-an-array](https://github.com/arsha2343/Leetcode-Qns/tree/master/2460-apply-operations-to-an-array) |
 ## Math
 |  |
 | ------- |
